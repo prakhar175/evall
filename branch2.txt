@@ -1,2 +1,0 @@
-And this is the file of branch 2 which will be merged into main
-
